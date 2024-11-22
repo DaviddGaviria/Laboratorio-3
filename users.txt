@@ -1,0 +1,7 @@
+David,0120,conectado
+hector,1234,desconectado
+Ever,12345,conectado
+Maria,0120,desconectado
+Derian,0120,desconectado
+Ever2,0120,desconectado
+Julian,1234,desconectado

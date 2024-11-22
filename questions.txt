@@ -1,0 +1,41 @@
+Deportes:¿Cuándo anotó su primer gol Messi?:1 de mayo del 2005:10 de junio de 2004:15 de enero de 2007:10 de junio de 2008:a
+Deportes:¿Cuántas copas mundiales tiene Pelé?:5 mundiales:2 mundiales:1 mundial:3 mundiales:d
+Deportes:¿Cuántos goles anotó Cristiano Ronaldo en toda su carrera?:900:850:1000:770:b
+Deportes:¿La invención del voleibol fue en?:9 de febrero de 1885:4 de enero de 1896:30 de febrero de 1987:15 de abril de 1882:b
+Deportes:Un cubo de Rubik tiene caras en rojo, naranja, verde, amarillo, azul y... ¿Qué otro color?:morado:negro:blanco:gris:c
+Deportes:¿Quién ganó el mundial de fútbol de 2010?:Francia:España:Brasil:Colombia:b
+Deportes:¿En qué posición juega el cancerbero de un equipo de fútbol?:Lateral:Extremo:Portero:Delantero:c
+Deportes:¿Quién se considera el mejor jugador de baloncesto de todos los tiempos?:Michael Ballack:Julian Smith:Kobe Bryant:Michael Jordan:d
+Deportes:¿Qué tipo de competición es el Giro de Italia?:Golf:Ciclismo:Fútbol:Baloncesto:b
+Deportes:¿Cuánto dura un partido de balonmano?:70 minutos:60 minutos:40 minutos:30 minutos:b
+Historia:¿Cuántos años duró la Segunda Guerra Mundial?:6 años:3 años:4 años:10 años:a
+Historia:¿Quién inventó la bombilla?:Thomas Edison:Nikola Tesla:Alexander Graham Bell:Ever Kirchhoff:a
+Historia:¿Cuándo acabó la II Guerra Mundial?:1956:1930:1945:1940:c
+Historia:¿En qué año se produjo la Revolución Francesa?:1740:1789:1840:1850:b
+Historia:¿En qué año llegó Cristóbal Colón a América?:1500:1420:1492:1450:c
+Historia:Según la Biblia, ¿cuántos años vivió Matusalén?:800 años:80 años:100 años:969 años:d
+Historia:¿En qué país nació Adolf Hitler?:Colombia:Austria:Rusia:Inglaterra:b
+Historia:¿Cuánto duró 'La Guerra de los Cien Años'?:100 años:116 años:50 años:120 años:b
+Historia:¿Hace cuánto se extinguieron los dinosaurios?:Hace 66 millones de años:Hace 100 millones de años:Hace 40 años:Todas las anteriores:a
+Historia:¿Quién fue el último faraón de Egipto?:Gaviria II:Amosis I:Akenatón:Ramsés II:d
+Ciencia:¿Cuál es la fórmula química del agua?:H2O:CO2:O2:N2:a
+Ciencia:¿Qué planeta es conocido como el planeta rojo?:Tierra:Venus:Marte:Júpiter:c
+Ciencia:¿Quién desarrolló la teoría de la relatividad?:Isaac Newton:Nikola Tesla:Albert Einstein:Galileo Galilei:c
+Ciencia:¿Cuál es el elemento más abundante en el universo?:Helio:Oxígeno:Hidrógeno:Carbono:c
+Ciencia:¿Qué tipo de animal es un delfín?:Mamífero:Pez:Reptil:Anfibio:a
+Ciencia:¿Qué órgano humano consume más energía?:Corazón:Hígado:Cerebro:Estómago:c
+Ciencia:¿Qué es el ADN?:Ácido desoxirribonucleico:Ácido ribonucleico:Proteína:Enzima:a
+Ciencia:¿Cómo se llama la fuerza que nos mantiene en el suelo?:Magnetismo:Gravedad:Fricción:Tensión superficial:b
+Ciencia:¿Cuál es el gas más ligero?:Helio:Oxígeno:Hidrógeno:Nitrógeno:c
+Ciencia:¿Qué causa la marea alta?:El sol:Las estrellas:La luna:Los volcanes:c
+Arte:¿Quién pintó la Mona Lisa?:Vincent van Gogh:Pablo Picasso:Leonardo da Vinci:Rembrandt:c
+Arte:¿Cuál es el título de la famosa escultura de Miguel Ángel?:El Pensador:David:La Venus de Milo:Moisés:b
+Arte:¿Qué estilo de arte es Salvador Dalí conocido por?:Realismo:Surrealismo:Impresionismo:Cubismo:b
+Arte:¿En qué país se encuentra el Museo del Louvre?:España:Italia:Francia:Alemania:c
+Arte:¿Qué artista es famoso por sus cuadros de girasoles?:Claude Monet:Frida Kahlo:Vincent van Gogh:Andy Warhol:c
+Arte:¿Qué movimiento artístico es Pablo Picasso conocido por co-fundar?:Impresionismo:Cubismo:Expresionismo:Futurismo:b
+Arte:¿Cuál es el título del fresco pintado por Miguel Ángel en el techo de la Capilla Sixtina?:La Última Cena:El Juicio Final:La Creación de Adán:La Noche Estrellada:c
+Arte:¿Qué técnica artística utiliza pequeñas pinceladas para crear una imagen?:Puntillismo:Cubismo:Surrealismo:Impresionismo:a
+Arte:¿Quién es conocido como el "Padre de la Escultura Moderna"?:Auguste Rodin:Donatello:Lorenzo Ghiberti:Henry Moore:a
+Arte:¿Qué artista pintó la obra "Las Meninas"?:El Greco:Francisco de Goya:Diego Velázquez:Joan Miró:c
+
